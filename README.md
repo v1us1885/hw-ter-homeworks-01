@@ -39,15 +39,16 @@
 
 
 ## Решение 1
-*** Личную информацию допустимо сохранять в:
+*** Личную информацию допустимо сохранять в:   
+
 ![gitignor](https://github.com/v1us1885/hw-ter-homeworks-01/blob/main/gitignor.png)
 
 
-*** Секретный ключ:
+*** Секретный ключ:   
 ![state-pass](https://github.com/v1us1885/hw-ter-homeworks-01/blob/main/state-pass.png)
 
 
-*** ошибки в файле main.tf**
+*** ошибки в файле main.tf**   
 ![tr-validate](https://github.com/v1us1885/hw-ter-homeworks-01/blob/main/tr-validate.png)
 - не задано имя image
 - не корректное имя контейнера
